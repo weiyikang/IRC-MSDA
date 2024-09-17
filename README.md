@@ -140,4 +140,4 @@ And there are some federated multi-source domain adaptation and generalization m
 ```
 
 ## Acknowledgments
-The codes will be released once they are annotated.
+Please refer to train.py for additional details.
