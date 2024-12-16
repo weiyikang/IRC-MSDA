@@ -75,11 +75,6 @@ nohup python main.py --config DigitFive.yaml --target-domain syn -bp ../../../ -
 nohup python main.py --config DigitFive.yaml --target-domain usps -bp ../../../ --temperature 0.8 --s_intra 0.0 --s_inter 0.0 --t_intra 0.0 --t_inter 0.3 --pl 3 --pj 0 --gpu 6  > ./log/baseline_usps_wgcc_sg00_sl00_tg03_tl00.txt 2>&1 &
 ```
 
-The trained model on Digits-5 dataset can be downloaded in Baidu Yun:
-
-Link: 
-Code: 
-
 The results on Digits-5, Office-Caltech10, and Office31 are as follows.
 
   ![FedDG](./images/digits5_results.png)
