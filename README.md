@@ -110,13 +110,6 @@ And there are some federated multi-source domain adaptation and generalization m
   doi={10.1109/TCSVT.2022.3219893}
 }
 
-@article{wei2025multi,
-  title={Multi-Source Collaborative Style Augmentation and Domain-Invariant Learning for Federated Domain Generalization},
-  author={Wei, Yikang},
-  journal={arXiv preprint arXiv:2505.10152},
-  year={2025}
-}
-
 @article{Wei_Han_2024, 
   title={Multi-Source Collaborative Gradient Discrepancy Minimization for Federated Domain Generalization},
   journal={Proceedings of the AAAI Conference on Artificial Intelligence}, 
